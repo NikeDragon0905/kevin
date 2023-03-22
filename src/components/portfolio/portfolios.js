@@ -10,7 +10,7 @@ export const portfolioData = [
     client: "HODL",
     languages: "React, JSS, Tailwindcss, Web3 integration",
     preview: "https://hodlpad.app/",
-    image: "img/projects/hodlpad.png",
+    image: "img/projects/hodlpad.jpg",
   },
   {
     type: portfolioTypes.FrontEnd,
@@ -18,7 +18,7 @@ export const portfolioData = [
     client: "Fuzzy.one",
     languages: "React",
     preview: "https://fuzzy.one/",
-    image: "img/projects/fuzzy.png",
+    image: "img/projects/fuzzy.jpg",
   },
   {
     type: portfolioTypes.FrontEnd,
@@ -26,7 +26,7 @@ export const portfolioData = [
     client: "CARDENCE",
     languages: "React, styled-components",
     preview: "https://cardence.io/",
-    image: "img/projects/cardence.png",
+    image: "img/projects/cardence.jpg",
   },
   {
     type: portfolioTypes.FrontEnd,
@@ -34,7 +34,7 @@ export const portfolioData = [
     client: "Akil",
     languages: "React, JSS",
     preview: "https://akilcoin.com/",
-    image: "img/projects/akilcoin.png",
+    image: "img/projects/akilcoin.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -42,7 +42,7 @@ export const portfolioData = [
     client: "Plethori",
     languages: "React, Solidity",
     preview: "https://plebridge.web.app/",
-    image: "img/projects/plethori-bridge.png",
+    image: "img/projects/plethori-bridge.jpg",
   },
   {
     type: portfolioTypes.Blockchain,
@@ -51,7 +51,7 @@ export const portfolioData = [
     languages: "Solidity",
     preview:
       "https://bscscan.com/address/0x9e545b66afad4836656601b0a6c6c4508b33e2c4",
-    image: "img/projects/devious-licks-token.png",
+    image: "img/projects/devious-licks-token.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -59,7 +59,7 @@ export const portfolioData = [
     client: "Moon",
     languages: " React, Tailwindcss, Express, Web3 integration",
     preview: "https://moonroll.io/",
-    image: "img/projects/moon-roll.png",
+    image: "img/projects/moon-roll.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -67,7 +67,7 @@ export const portfolioData = [
     client: "Callum",
     languages: " React, Tailwindcss, Python",
     preview: "https://plethori-etf-analysis-tool.herokuapp.com/",
-    image: "img/projects/plethori-etf.png",
+    image: "img/projects/plethori-etf.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -75,7 +75,7 @@ export const portfolioData = [
     client: "Carrabre",
     languages: " React, Tailwindcss, Solidity, Livepeer",
     preview: "https://imbue.on.fleek.co/",
-    image: "img/projects/imbue.png",
+    image: "img/projects/imbue.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -84,7 +84,7 @@ export const portfolioData = [
     languages:
       " React, Tailwindcss,Styled Component, Web3 integration, Solidity",
     preview: "https://www.the-swappery.com/",
-    image: "img/projects/swappery.png",
+    image: "img/projects/swappery.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -92,7 +92,7 @@ export const portfolioData = [
     client: "",
     languages: "React, styled-components, Tailwindcss, Web3 integration, Node.js, AWS",
     preview: "https://powernode.io/",
-    image: "img/projects/powernode.png",
+    image: "img/projects/powernode.jpg",
   },
   {
     type: portfolioTypes.FullStack,
@@ -100,7 +100,7 @@ export const portfolioData = [
     client: "Casper",
     languages: "Typescript, Next.js, Tailwindcss, GraphQL, Strapi API",
     preview: "https://bluejestic.com/",
-    image: "img/projects/bluejestic.png",
+    image: "img/projects/bluejestic.jpg",
   },
   {
     type: portfolioTypes.FrontEnd,
@@ -108,6 +108,6 @@ export const portfolioData = [
     client: "-",
     languages: " Vue, Nuxt.js, SCSS",
     preview: "https://daclify.animus.is/",
-    image: "img/projects/daclify.png",
+    image: "img/projects/daclify.jpg",
   },
 ];
