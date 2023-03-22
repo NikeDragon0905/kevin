@@ -38,11 +38,11 @@ const index = () => {
               <div className="col-12 mt-1">
                 <a
                   className="button"
-                  href="https://docs.google.com/document/d/1_U26AEMLfY2A-0k9of6mU9EOatzIBbJdbwVfcHr6cCw/edit?usp=sharing"
+                  href="resume/KevinHarris.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <span className="button-text">Download CV</span>
+                  <span className="button-text">Download Resume</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>
               </div>
