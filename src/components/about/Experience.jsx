@@ -12,7 +12,7 @@ const experienceContent = [
   {
     year: "May 2021 - Dec 2021",
     position: "Senior Full-stack Engineer",
-    compnayName: "Self-Employed",
+    compnayName: "Golden Hippo - United States",
     details:
       `Worked with a team of senior web designers, full-stack engineers, and the QAs to meet project goals and create effective user experiences for millions of subscribers\n
       & Developed full-stack applications across various platforms using the latest industry-adopted technologies and frameworks\n
