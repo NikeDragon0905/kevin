@@ -2,7 +2,7 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "Feb 2022 - Dec 2022",
+    year: "Feb 2022 - Feb 2023",
     position: "Senior Front-end & Blockchain Engineer",
     compnayName: "PowerUSD, LLC - United States",
     details:
@@ -10,7 +10,7 @@ const experienceContent = [
       & Worked on Golang Backend API service`,
   },
   {
-    year: "May 2021 - Dec 2021",
+    year: "Oct 2020 - Dec 2021",
     position: "Senior Full-stack Engineer",
     compnayName: "Golden Hippo - United States",
     details:
@@ -19,7 +19,7 @@ const experienceContent = [
       & Worked using CMS Frameworks and no-coding platforms`,
   },
   {
-    year: "Nov 2019 - Sep 2020",
+    year: "Dec 2019 - Sep 2020",
     position: "Full-stack Developer",
     compnayName: "Coding Dojo- United States",
     details:
@@ -28,7 +28,7 @@ const experienceContent = [
       & Added to the company database of code by developing reusable code that could minimize the time needed to maintain the projects`,
   },
   {
-    year: "Jun 2017 - Dec 2019",
+    year: "Jun 2017 - Nov 2019",
     position: "Web Developer Intern",
     compnayName: "Forest Company - Hong Kong",
     details:
